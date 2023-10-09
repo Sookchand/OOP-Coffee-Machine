@@ -20,7 +20,8 @@ I would like to thank Dr. Angela Yu.
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![OOP](https://github.com/Sookchand/OOP-Coffee-Machine/assets/34344439/60cff09c-e2aa-49f2-b298-82c3552e6602)
+
 
 
 ## Tech Stack
